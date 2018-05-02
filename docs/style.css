@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'pixelmplus10regular';
+    src: url('./fonts/PixelMplus10-Regular.woff2') format('woff2'),
+         url('./fonts/PixelMplus10-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    background-color: #222;
+    font-family: 'pixelmplus10regular';
+    font-size: 20px;
+    color: #eee;
+}
