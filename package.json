@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/wamei/wamei.jp#readme",
   "devDependencies": {
-    "vue": "^2.5.16",
-    "vue-loader": "^15.0.9",
-    "vue-template-compiler": "^2.5.16",
-    "vuex": "^3.0.1",
-    "webpack": "^4.7.0",
-    "webpack-cli": "^2.1.2"
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.0",
+    "vue-template-compiler": "^2.6.11",
+    "vuex": "^3.1.2",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
   }
 }
